@@ -1,0 +1,2 @@
+#otp
+TTL_SENT_OTP = 1800
